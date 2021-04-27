@@ -4,7 +4,7 @@
 
 Then copy the repository address which will be used later
 
-![img](image/image2.png)
+![img](images/image2.png)
 
 ### 2.   Then go to the directory of the project you want to upload and execute the git init command.
 
